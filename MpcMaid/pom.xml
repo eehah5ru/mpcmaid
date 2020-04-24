@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mpcmaid</groupId>
     <artifactId>mpcmaid</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-RC1</version>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -13,7 +13,7 @@
         <repository>
         <id>github</id>
         <name>GitHub Packages</name>
-        <url>https://maven.pkg.github.com/malkav30/mpcmai</url>
+        <url>https://maven.pkg.github.com/malkav30/mpcmaid</url>
         </repository>
     </distributionManagement>
     <dependencies>
